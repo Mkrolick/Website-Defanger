@@ -1,7 +1,5 @@
 # Defanger - Python 3 - Malcolm Krolick
 
-from tkinter.filedialog import Open
-
 
 with open("sites.txt", 'r') as f:
     new_sites = []
